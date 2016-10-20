@@ -1,0 +1,2 @@
+class CustomTag < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class CustomCategory < ApplicationRecord
+end
